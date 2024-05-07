@@ -10,11 +10,19 @@ the dataset used this project contains over 56,000 rows of raw data on the Nashv
 ### Tools
  - SQL Server [Download here](http://www.SQLServer.com)
 ### Data cleaning
-I used the following functions inorder to have a clean dataset: 
-- Date function - For manipulating and formatting dates.
-- Case statement to convert the gender names.
-- Use of common table
-- Data Manipulation Language such as insert, update and delete statement to manipulate data in the dataset.
-  
+I used the following functions for the data cleaning process: 
+-Alter and update table when data on the dataset such as date formats.
+Self join to populate the property address.
+Substring, charindex and parsename to split the property address and owner's address.
+Case statement to change the gender rows from 'F' and 'M' to 'male' and 'female'.
+CTE to find and remove the duplicate rows.
+Delete and drop column to remove the useless columns
+
+### Results
+
+The result was a clean dataset ready for analysis and exploratory data analysis.
+### License 
+
+ This project is licensed under the [MIT License](LICENSE) 
 - 
 -  
