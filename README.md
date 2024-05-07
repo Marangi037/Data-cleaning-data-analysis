@@ -11,4 +11,10 @@ the dataset used this project contains over 56,000 rows of raw data on the Nashv
  - SQL Server [Download here](http://www.SQLServer.com)
 ### Data cleaning
 I used the following functions inorder to have a clean dataset: 
-Update, 
+- Date function - For manipulating and formatting dates.
+- Case statement to convert the gender names.
+- Use of common table
+- Data Manipulation Language such as insert, update and delete statement to manipulate data in the dataset.
+  
+- 
+-  
