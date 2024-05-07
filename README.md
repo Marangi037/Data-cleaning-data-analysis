@@ -3,7 +3,7 @@ Welcome to the data cleaning with SQL project!. This project aims to provide you
 
 
 
-![Nashville](![Screenshot (126)](https://github.com/Marangi037/Data-cleaning-data-analysis/assets/159117592/cdb409b7-06aa-4df4-86da-6cc6733c7287)
+![Screenshot (126)](https://github.com/Marangi037/Data-cleaning-data-analysis/assets/159117592/cdb409b7-06aa-4df4-86da-6cc6733c7287)
 
 
 ## Project Overview
